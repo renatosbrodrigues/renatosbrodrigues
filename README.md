@@ -4,7 +4,7 @@
 
 - 📘 I’m currently studying on **Kenzie Academy Brasil**
 
-- 🌱 I’m currently learning **vanilla Javascript**
+- 🌱 I’m currently learning **js libraries(react, styled-components)**
 
 - 👀 I’m interested in **everything that involves web development**
 
