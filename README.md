@@ -4,11 +4,11 @@
 
 - 📘 I’m currently studying on **Kenzie Academy Brasil**
 
-- 🌱 I’m currently learning **js libraries(react, styled-components)**
+- 🌱 I’m currently learning **Django Rest Framework**
 
 - 👀 I’m interested in **everything that involves web development**
 
-- 💬 Ask me about **Javascript, hmtl, css**
+- 💬 Ask me about **Javascript,Python ,hmtl, css**
 
 - 📫 How to reach me: **renatodesouza2607@gmail.com**
 
