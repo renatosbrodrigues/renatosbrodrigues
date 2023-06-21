@@ -4,7 +4,7 @@
 
 - 📘 I’m currently studying on **Kenzie Academy Brasil**
 
-- 🌱 I’m currently learning **Django Rest Framework**
+- 🌱 I’m currently learning *Flutter**
 
 - 👀 I’m interested in **everything that involves web development**
 
