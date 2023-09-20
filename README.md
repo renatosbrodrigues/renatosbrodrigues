@@ -1,18 +1,17 @@
-[![MasterHead](https://media.istockphoto.com/vectors/javascript-concept-banner-header-vector-id1133769470?k=20&m=1133769470&s=170667a&w=0&h=OOBjRHlPWE17e66Vz21t9F3PhwryIDHrdXuYNFkqdiU=)](https://www.linkedin.com/in/renato-de-souza-323a09235/)
 <h1 align="center">Hi 👋, I'm Renato de Souza</h1>
 <h3 align="center">A passionate frontend development student from Brazil aspiring to become fullstack</h3>
 
-- 📘 I’m currently studying on **Kenzie Academy Brasil**
+- 📘 I’m currently studying on **FIAP**
 
-- 🌱 I’m currently learning *Flutter**
+- 🌱 I’m currently learning **.NET 6 and C#**
 
-- 👀 I’m interested in **everything that involves web development**
+- 👀 I’m interested in **everything that involves back-end web development**
 
-- 💬 Ask me about **Javascript,Python ,hmtl, css**
+- 💬 Ask me about **node.js, C#, .NET and **
 
 - 📫 How to reach me: **renatodesouza2607@gmail.com**
 
-- ⚡ Fun fact **I play videogames since I was four**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
