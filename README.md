@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Renato de Souza</h1>
-<h3 align="center">A passionate frontend development student from Brazil aspiring to become fullstack</h3>
+<h3 align="center">A passionate web development student from Brazil aspiring to become a .NET master 😎</h3>
 
 - 📘 I’m currently studying on **FIAP**
 
