@@ -7,7 +7,7 @@
 
 - 👀 I’m interested in **everything that involves back-end web development**
 
-- 💬 Ask me about **node.js, C#, .NET and **
+- 💬 Ask me about ** C#, .NET and ASP NET**
 
 - 📫 How to reach me: **renatodesouza2607@gmail.com**
 
